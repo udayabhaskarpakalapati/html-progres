@@ -1,0 +1,21 @@
+*{
+    background-color: aquamarine;
+}
+#green{
+    color: green;
+}
+#red{
+    color: red;
+}
+#violet{
+    color:blueviolet;
+}
+.color{
+    font-weight:1000;
+}
+p{
+    font-weight: 900;
+}
+footer{
+    color:brown;
+}
